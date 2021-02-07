@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+你好
+我叫王志刚，目前是一名大学生
+希望能在GitHub学到一些东西
