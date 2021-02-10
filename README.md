@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 你好
-我叫王志刚，目前是一名大学生
+我叫王志刚，目前是一名大学生，
 希望在GitHub上学到知识以及遇见志同道合的你
