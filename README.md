@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 你好
 我叫王志刚，目前是一名大学生
-希望能在GitHub学到一些东西
+希望在GitHub上学到知识以及遇见志同道合的你
